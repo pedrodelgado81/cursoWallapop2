@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>um.tiendas</groupId>
-	<artifactId>wallapop2</artifactId>
+	<artifactId>cursoWallapop2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>wallapop2</name>
+	<name>cursoWallapop2</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
